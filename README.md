@@ -7,6 +7,7 @@ I'm Adedokun Toheeb, a dedicated and efficient full stack developer with a passi
 ## * ⚛ React / Redux
 ## * ✡  Node.js / Express.js/ NestJs / GraphQL 
 ## * ➡ SQL / MySQL /PostgreSQL / MongoDB
+## * ✅  Jest/ SuperTest/ Pactum
 ## * 🏪 Git /GitHub 
 ## *  👨‍💻 Docker / Kubernetes
 ## * 🤝 Agile
