@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Dedicated and efficient full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications. Over three years of experience in web development, including front-end and back-end technologies.
+I'm Adedokun Toheeb, a dedicated and efficient full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications. I have over three years of experience in web development, including front-end and back-end technologies.
 Eager to develop skills in a fast-paced environment and contribute to the success of a company.
 
 [![RxGoodness's GitHub stats](https://github-readme-stats.vercel.app/api?username=RxGoodness)](https://github.com/RxGoodness/github-readme-stats)
