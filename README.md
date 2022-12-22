@@ -10,6 +10,17 @@ I'm Adedokun Toheeb, a dedicated and efficient full stack developer with a passi
 ## * 🏪 Git /GitHub 
 ## *  👨‍💻 Docker / Kubernetes
 ## * 🤝 Agile
+
+## Examples of Works:
+<img src="https://github.com/RxGoodness/RxGoodness/blob/main/Appoga(1).png" width="256"/>
+<img src="https://github.com/RxGoodness/RxGoodness/blob/main/Providus_Screenshot%20(1).png" width="256"/>
+<img src="https://github.com/RxGoodness/RxGoodness/blob/main/Screenshot%20(112).png" width="128"/>
+<img src="https://github.com/RxGoodness/RxGoodness/blob/main/Screenshot%20(113).png" width="64"/>
+<img src="https://github.com/RxGoodness/RxGoodness/blob/main/Screenshot%20(114).png" width="32"/>
+<img src="https://github.com/RxGoodness/RxGoodness/blob/main/Wiki_Screenshot%20(1).png" width="16"/>
+<img src="https://github.com/RxGoodness/RxGoodness/blob/main/altmall_Screenshot%20(1).png" width="8"/>
+<img src="https://github.com/RxGoodness/RxGoodness/blob/main/altmall_Screenshot%20(2).png" width="4"/>
+<!-- <img src="" width="256"/> -->
  
 - 🔭 I’m currently working on an e-commerce web application 
 - 🌱 I’m currently learning Microservices 
