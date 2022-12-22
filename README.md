@@ -2,7 +2,7 @@
 #### Full stack web developer
 I'm Adedokun Toheeb, a dedicated and efficient full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications. I have over three years of experience in web development, including front-end and back-end technologies. Eager to develop skills in a fast-paced environment and contribute to the success of a company.
 
-Skills: HTML / CSS / JavaScript / Typescript / React/ Redux / Node.js / Express.js/ NestJs / GraphQL / SQL / MySQL /PostgreSQL / MongoDB / Docker Git /GitHub / Kubernetes / Jira / Agile 
+## Skills and Experience: HTML / CSS / JavaScript / Typescript / React/ Redux / Node.js / Express.js/ NestJs / GraphQL / SQL / MySQL /PostgreSQL / MongoDB / Docker Git /GitHub / Kubernetes / Jira / Agile 
 
 - 🔭 I’m currently working on an e-commerce web application 
 - 🌱 I’m currently learning Microservices 
