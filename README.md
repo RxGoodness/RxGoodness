@@ -4,11 +4,11 @@
 
 ## Skills and Experience: 
 ### * 💻 HTML / CSS / JavaScript / Typescript / Python
-### * ⚛ React / Redux
+### * ⚛ React / Redux 
 ### * ✡  Node.js / Express.js/ Fastify.Js/ NestJs / GraphQL 
-### * ➡ SQL / MySQL /PostgreSQL / MongoDB
+### * ➡ SQL - MySQL /PostgreSQL & NoSQL- MongoDB
 ### * ✅  Jest/ SuperTest/ Pactum
-### * 🏪 Git /GitHub 
+### * 🏪 Git /GitHub
 ### *  👨‍💻 Docker / Kubernetes
 ### * 🤝 Agile
 
