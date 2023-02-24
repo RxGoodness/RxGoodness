@@ -4,13 +4,13 @@
 
 ## Skills and Experience: 
 ### * 💻 HTML / CSS / JavaScript / Typescript / Python 
-### * ⚛ React / Redux
-### * ✡  Node.js / Express.js/ Fastify.Js/ NestJs / GraphQL
-### * ➡ SQL - MySQL /PostgreSQL & NoSQL- MongoDB
-### * ✅  Jest/ SuperTest/ Pactum
-### * 🏪 Git /GitHub
-### *  👨‍💻 Docker / Kubernetes
-### * 🤝 Agile
+### * ⚛ React / Redux 
+### * ✡  Node.js / Express.js/ Fastify.Js/ NestJs / GraphQL 
+### * ➡ SQL - MySQL /PostgreSQL & NoSQL- MongoDB 
+### * ✅  Jest/ SuperTest/ Pactum 
+### * 🏪 Git /GitHub 
+### *  👨‍💻 Docker / Kubernetes 
+### * 🤝 Agile 
 
 ## Examples of Works:
 <div flex flex-direction='column'>
