@@ -10,7 +10,7 @@
 ### * ✅  Jest/ SuperTest/ Pactum 
 ### * 🏪 Git /GitHub 
 ### *  👨‍💻 Docker / Kubernetes 
-### * 🤝 Agile       
+### * 🤝 Agile 
 ## Examples of Works:
 <div flex flex-direction='column'>
 <img src="https://github.com/RxGoodness/RxGoodness/blob/main/Appoga(1).png" width="256"/>
