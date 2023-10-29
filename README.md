@@ -27,7 +27,7 @@
 <br/>
 
 - 🔭 I’m currently working on an e-commerce web application 
-- 🌱 I’m currently learning Microservices 
+- 🌱 I’m currently learning Devops and Microservices 
 - 👯 I’m looking to collaborate on Exciting Projects 
 - 🤔 I’m looking for help with Job opportunities 
 - 💬 Ask me about Web applications and technologies 
