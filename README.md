@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Toheeb Adedokun 
+## Hi there 👋, My name is Toheeb Adedokun
 ## Full stack web developer
 ### I'm Adedokun Toheeb, a dedicated and efficient full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications. I have over three years of experience in web development, including front-end and back-end technologies. Eager to develop skills in a fast-paced environment and contribute to the success of a company.
 
