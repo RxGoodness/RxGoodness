@@ -6,7 +6,8 @@
 ### * 💻 HTML / CSS / JavaScript / Typescript / Python 
 ### * ⚛ React / Redux 
 ### * ✡  Node.js / Express.js/ Fastify.Js/ NestJs / GraphQL 
-### * ➡ SQL - MySQL /PostgreSQL & NoSQL- MongoDB 
+### * ➡ SQL - MySQL /PostgreSQL 
+### * ➡ NoSQL - MongoDB 
 ### * ✅  Jest/ SuperTest/ Pactum 
 ### * 🏪 Git /GitHub 
 ### *  👨‍💻 Docker / Kubernetes 
